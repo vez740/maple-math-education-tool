@@ -1,0 +1,13 @@
+Cargo.lock linguist-generated
+*.md linguist-documentation
+*.js linguist-detectable
+
+*.png binary  
+
+dist/* linguist-vendored
+*.json linguist-detectable=false
+*.min.css linguist-generated
+
+**/*.js linguist-detectable
+*.min.js linguist-generated
+public/index.html linguist-vendored
