@@ -1,0 +1,9 @@
+.pnpm-store/
+yarn-error.log*
+.env.local
+*.log
+build/
+*.tgz
+dist/
+node_modules/
+_site/
